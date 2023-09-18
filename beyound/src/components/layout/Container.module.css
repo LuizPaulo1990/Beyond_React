@@ -6,6 +6,15 @@
     flex-wrap: wrap;
 }
 
-.minHeight {
-    min-height: 75%;
+.min_height {
+    min-height: 75vh;
+}
+
+.start {
+    justify-content: flex-start;
+}
+
+.column {
+    flex-direction: column;
+    justify-content: flex-start;
 }
