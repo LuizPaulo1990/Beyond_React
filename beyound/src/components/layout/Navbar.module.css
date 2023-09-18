@@ -2,7 +2,7 @@
     display: flex;
     justify-content: space-between;
     background-color: #222;
-    padding: 1em;
+    padding: 1em 2em 1em 2em;
 }
 
 .list {
@@ -12,7 +12,7 @@
 }
 
 .item {
-    margin-right: 1em;
+    margin: 1em;
 
 }
 
